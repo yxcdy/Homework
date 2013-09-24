@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransTemp", "TransTemp\TransTemp.vcxproj", "{595EB45B-E830-404C-8EEA-7B1FCEC6CC05}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Combination", "Combination\Combination.vcxproj", "{BE3B6BBD-EB65-4546-975D-43F75F96A750}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "power", "power\power.vcxproj", "{C7151E8E-49BD-4C94-AE51-78AEA81B8900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +17,14 @@ Global
 		{595EB45B-E830-404C-8EEA-7B1FCEC6CC05}.Debug|Win32.Build.0 = Debug|Win32
 		{595EB45B-E830-404C-8EEA-7B1FCEC6CC05}.Release|Win32.ActiveCfg = Release|Win32
 		{595EB45B-E830-404C-8EEA-7B1FCEC6CC05}.Release|Win32.Build.0 = Release|Win32
+		{BE3B6BBD-EB65-4546-975D-43F75F96A750}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE3B6BBD-EB65-4546-975D-43F75F96A750}.Debug|Win32.Build.0 = Debug|Win32
+		{BE3B6BBD-EB65-4546-975D-43F75F96A750}.Release|Win32.ActiveCfg = Release|Win32
+		{BE3B6BBD-EB65-4546-975D-43F75F96A750}.Release|Win32.Build.0 = Release|Win32
+		{C7151E8E-49BD-4C94-AE51-78AEA81B8900}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7151E8E-49BD-4C94-AE51-78AEA81B8900}.Debug|Win32.Build.0 = Debug|Win32
+		{C7151E8E-49BD-4C94-AE51-78AEA81B8900}.Release|Win32.ActiveCfg = Release|Win32
+		{C7151E8E-49BD-4C94-AE51-78AEA81B8900}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
