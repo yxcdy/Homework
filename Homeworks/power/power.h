@@ -1,0 +1,1 @@
+long int power(long int X, unsigned int N)    ;
